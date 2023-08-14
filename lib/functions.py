@@ -1,10 +1,11 @@
 #!/usr/bin/env python3
 
 def greet_programmer():
-    pass
+    print("Hello, programmer!")
 
-def greet(name):
-    pass
+def greet(name):    
+    print("Hello, {name}!")
+   
 
 def greet_with_default(name="programmer"):
     pass
